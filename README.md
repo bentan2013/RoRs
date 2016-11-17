@@ -14,6 +14,9 @@ created: 2016-10-6
 
 - [opensourceBIM/BIMserver](https://github.com/opensourceBIM/BIMserver)
 
+## Cloud
+- [google-cloud-node](https://github.com/GoogleCloudPlatform/google-cloud-node)
+
 ## Game
 
 [pomelo](https://github.com/NetEase/pomelo)
