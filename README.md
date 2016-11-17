@@ -2,24 +2,21 @@
 
 repo of repos
 
-I will continue update this repo, and thanks for your PR.
-
 created: 2016-10-6
 
 # 3D
 
+- [cesium](https://github.com/AnalyticalGraphicsInc/cesium)
 - [AnalyticalGraphicsInc/3d-tiles](https://github.com/AnalyticalGraphicsInc/3d-tiles)
 - [3dcitydb/3dcitydb-web-map](https://github.com/3dcitydb/3dcitydb-web-map)
-
-## Algorithm
 
 ## BIM
 
 - [opensourceBIM/BIMserver](https://github.com/opensourceBIM/BIMserver)
 
-## Design pattern
+## Game
 
-- [try-cpp-design-pattern](https://github.com/bentan2013/try-cpp-design-pattern)
+[pomelo](https://github.com/NetEase/pomelo)
 
 ## GIS
 
@@ -32,21 +29,27 @@ created: 2016-10-6
 - geosaurus
 - projection-engine 
 
-## Machine learning
+## Machine / Deep learning
 
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+- [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh)
+- [tflearn](https://github.com/tflearn/tflearn)
+- [torch](https://github.com/torch/torch7)
+- [caffe](https://github.com/BVLC/caffe)
+- [Theano](https://github.com/Theano/Theano)
 - [neuraltalk](https://github.com/bentan2013/neuraltalk)
 - [neuraltalk2](https://github.com/karpathy/neuraltalk2)
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - [Rochester-NRT/RocAlphaGo](https://github.com/Rochester-NRT/RocAlphaGo)
-- [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh)
-- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
 - [airbnb/aerosolve](https://github.com/airbnb/aerosolve)
 - [OptiKey](https://github.com/OptiKey/OptiKey)
 - [opencog](https://github.com/opencog/opencog)
+- [baidu-researc/warp-ctc](https://github.com/baidu-research/warp-ctc)
 
 ## SLAM
 
 - [googlecartographer](https://github.com/googlecartographer)
+- [gazebo](http://gazebosim.org/)
 
 ## Oblique aerial photography
 
@@ -68,17 +71,4 @@ created: 2016-10-6
 ## Point cloud
 
 - [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl)
-
-
-
-
-
-------
-
-## My test projects
-
-- [Promodoro51](https://github.com/iuhsihsow/Pomodoro51)
-- [python-test](https://github.com/iuhsihsow/python-test)
-- [hello\_flask](https://github.com/iuhsihsow/hello_flask)
-- [kmeans-cpp](https://github.com/bentan2013/kmeans-cpp)
 
