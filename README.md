@@ -49,10 +49,11 @@ created: 2016-10-6
 - [opencog](https://github.com/opencog/opencog)
 - [baidu-researc/warp-ctc](https://github.com/baidu-research/warp-ctc)
 
-## SLAM
+## Robot
 
 - [googlecartographer](https://github.com/googlecartographer)
 - [gazebo](http://gazebosim.org/)
+- [ros-by-example](https://code.google.com/archive/p/ros-by-example)
 
 ## Oblique aerial photography
 
