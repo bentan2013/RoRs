@@ -49,12 +49,6 @@ created: 2016-10-6
 - [opencog](https://github.com/opencog/opencog)
 - [baidu-researc/warp-ctc](https://github.com/baidu-research/warp-ctc)
 
-## Robot
-
-- [googlecartographer](https://github.com/googlecartographer)
-- [gazebo](http://gazebosim.org/)
-- [ros-by-example](https://code.google.com/archive/p/ros-by-example)
-
 ## Oblique aerial photography
 
 - [dddExperiments/PhotoSynthToolkit](https://github.com/dddExperiments/PhotoSynthToolkit)
@@ -76,3 +70,8 @@ created: 2016-10-6
 
 - [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl)
 
+## Robot
+
+- [googlecartographer](https://github.com/googlecartographer)
+- [gazebo](http://gazebosim.org/)
+- [ros-by-example](https://code.google.com/archive/p/ros-by-example)
