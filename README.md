@@ -48,6 +48,7 @@ created: 2016-10-6
 - [OptiKey](https://github.com/OptiKey/OptiKey)
 - [opencog](https://github.com/opencog/opencog)
 - [baidu-researc/warp-ctc](https://github.com/baidu-research/warp-ctc)
+- [neuraltalke](https://github.com/karpathy/neuraltalk）& [neuraltalk2](https://github.com/karpathy/neuraltalk2)
 
 ## Oblique aerial photography
 
