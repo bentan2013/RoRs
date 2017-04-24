@@ -38,7 +38,7 @@ Node: An agent communicating with ROS and other nodes via
 
 ### Code Analysis
 
-![](http://i1.piimg.com/567571/1a1ca8ae01afe794.png)
+![](http://i2.muimg.com/567571/b3e52480291d008b.png)
 
 ### Characteristics
 
